@@ -22,6 +22,9 @@ class Item:
     @name.setter
     def name(self, value):
         print("You are trying to set")
+        #if len(value) > 10:
+            #raise Exception("The name is too long!")
+        #else:
         self.__name = value
     
     def calculate_total_price(self):
