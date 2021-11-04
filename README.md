@@ -1,2 +1,2 @@
 # OOP_Python
-Objected Oriented Programming w/ Python 
+Object-Oriented Programming w/ Python 
