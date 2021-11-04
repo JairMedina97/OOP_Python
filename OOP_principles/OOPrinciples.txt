@@ -1,0 +1,23 @@
+OOP principles
+1.- Encapsulation. 
+Definition: Refers to the bundling of data, along with the methods that operate on that data, into a single unit.
+Ex. The name attribute cant bet set to a new value, new characters cant be less than 10 strings
+Ex. Dont change the price tag, but define a method to apply increment without changing pricetag.
+
+2.- Abstraction.
+Definition: Shows "Only essential attributes" and "hides" unnecessary information.
+Ex. define send_email() method need several other methods to be achieved, where we can hide the other methods and attributes.
+    And you should hide converting methods to private methods. achievable by double underscore __ (private like Java or C#).
+
+3.- Inheritance.
+Definition: It is a mechanism where you can to derive a class from another class for a hierarchy of classes
+that share a set of attributes and methods. 
+Ex. Design child class of the Item class passing similar arguments and code. You can represent and modify specific methods for every child or Item class.
+
+4.- Polymorphism.
+Definition: Performs different things as per the objects class, which calls it. With Polymorphism, a message is sent to multiple class objects,
+and every object responds appropriately according to the properties of the class.
+Ex. Represent different types in different scenarios.
+Ex. Different scenarios calling one entity
+Ex. len() function, thats polymorphism in action, a single function does know how to handle different kinds of objects as expected.
+Ex. apply_discount() method can be applied to phones, laptops, keyboards.   
