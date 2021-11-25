@@ -1,0 +1,12 @@
+OOP Python
+File order
+1 Item 1
+2 Method 1
+3 Dynamic
+4 Calculation
+5 Validation
+6 Class attributes
+7 Self
+8 All
+9 Class method
+10 Check int
